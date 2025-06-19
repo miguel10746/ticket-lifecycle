@@ -6,9 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -29,26 +26,39 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+![image](https://github.com/user-attachments/assets/49a68ffe-2f04-4269-92a8-db9f1f233751)
+![image](https://github.com/user-attachments/assets/f198ffb2-ce45-43f3-b1b4-f33bfac576f2)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I created tickets in the osTicket user page from the fake user I created name Karen.
 </p>
+
+![image](https://github.com/user-attachments/assets/120f40b0-7a38-4658-9bde-efa62c199fa8)
+![image](https://github.com/user-attachments/assets/67beb694-7dfd-4d15-9ce9-d7da66be4221)
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I log into the osTicket as John, to see the tickets that were created.
 </p>
-<br />
+
+![image](https://github.com/user-attachments/assets/4f857363-105e-4b8b-a533-67b105f94b8d)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I opened the ticket to start working on it. 
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+![image](https://github.com/user-attachments/assets/9eae8c18-6106-46fc-b31d-359e24cd682d)
+![image](https://github.com/user-attachments/assets/9ed8c79b-c201-4e45-9cd6-726850b7d936)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I assigned the SLA to Sev-A and assigned the ticket to Online Banking team to work on the ticket, and change the help topic to business critical outage. Then I login as Jane started working on the ticket and the wrote solution and problem that cause the outage.
 </p>
+
+![image](https://github.com/user-attachments/assets/c3dd2e9a-8c06-4b01-a676-b5c7f4123c6d)
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I work another ticket and which a CFO laptop won't charge and change the SLA and wrote notes about getting more important about the problem. I wrote what solution I found that solve the problem.
 </p>
-<br />
+
+![image](https://github.com/user-attachments/assets/e95179c9-3919-4fc9-b15a-8135db3d6ffe)
+<p>
+The final ticket I created was an abode problem and which I assign to John and wrote solution and how I contact the users to see the problem and the solution the I found and how it was solve.
+</p>
+
+
